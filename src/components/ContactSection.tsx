@@ -77,7 +77,7 @@ const ContactSection = () => {
               </div>
               <div>
                 <h4 className="font-heading text-lg font-bold">Location</h4>
-                <p className="text-muted-foreground font-body text-sm">MG Road, Pune, Maharashtra 411001</p>
+                <p className="text-muted-foreground font-body text-sm">Kondwa Bk, Pune, Maharashtra 411048</p>
               </div>
             </div>
             <div className="flex items-start gap-4">
@@ -86,7 +86,7 @@ const ContactSection = () => {
               </div>
               <div>
                 <h4 className="font-heading text-lg font-bold">Phone</h4>
-                <p className="text-muted-foreground font-body text-sm">+91 98765 43210</p>
+                <p className="text-muted-foreground font-body text-sm">+91 98818 69881</p>
               </div>
             </div>
             <div className="flex items-start gap-4">
@@ -101,7 +101,7 @@ const ContactSection = () => {
 
             {/* WhatsApp CTA */}
             <a
-              href="https://wa.me/919876543210"
+              href="https://wa.me/919881869881"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-3 px-6 py-4 rounded-lg bg-[hsl(142,70%,40%)] font-heading uppercase tracking-wider text-[hsl(0,0%,100%)] hover:opacity-90 transition-opacity"
@@ -113,9 +113,7 @@ const ContactSection = () => {
             {/* Map */}
             <div className="rounded-xl overflow-hidden border border-border h-48">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.2!2d73.8567!3d18.5204!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTjCsDMxJzEzLjQiTiA3M8KwNTEnMjQuMSJF!5e0!3m2!1sen!2sin!4v1600000000000"
-                width="100%"
-                height="100%"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3784.5088782955345!2d73.87813697334937!3d18.460594971007218!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2eaf30453184b%3A0x2a08737d110768b3!2sTalwalkar&#39;s%20HiFi%20Gym!5e0!3m2!1sen!2sin!4v1772016692804!5m2!1sen!2sin"
                 style={{ border: 0 }}
                 allowFullScreen
                 loading="lazy"
